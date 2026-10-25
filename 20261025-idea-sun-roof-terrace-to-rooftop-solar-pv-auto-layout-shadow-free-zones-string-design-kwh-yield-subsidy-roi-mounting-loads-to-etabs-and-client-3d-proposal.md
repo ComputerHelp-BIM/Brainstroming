@@ -9,7 +9,7 @@ idea name:   Sun Roof — "Open the terrace. Press Solar. The tool runs the sun 
              the next building throw shadows, and paints the roof green / amber / red. Panels snap into the
              green zones with cleaning walkways, rows are spaced so they do not shade each other, strings
              are matched to the inverter, and the screen shows: 18.4 kWp, 26,900 kWh a year, ₹1.9 lakh
-             saved a year, subsidy ₹78,000, payback 3.6 years, 21 t CO2 saved. The structure dead load and
+             saved a year, payback ~4 years after subsidy, ~19 t CO2 saved a year. The structure dead load and
              wind uplift go to ETABS as area loads; the BOQ, layout sheet and a client 3D proposal come out
              with it."
              One engine with four front ends:
